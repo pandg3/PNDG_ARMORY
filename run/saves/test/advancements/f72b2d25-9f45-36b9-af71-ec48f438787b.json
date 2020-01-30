@@ -1,0 +1,38 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-01-27 21:05:56 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "slime": "2020-01-27 21:05:56 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-01-27 21:05:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "slime": "2020-01-27 21:05:56 -0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-01-27 21:03:47 -0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-01-27 21:05:09 -0800"
+    },
+    "done": true
+  }
+}

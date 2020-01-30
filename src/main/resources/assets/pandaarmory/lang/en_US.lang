@@ -1,0 +1,9 @@
+#Items
+item.component_Circuit.name=Circuit
+#Blocks
+tile.defensive_Concrete.name=Basic Concrete
+
+#ItemTabs
+itemGroup.pandaarmory=PNDA Armory
+
+#EA

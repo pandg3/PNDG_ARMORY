@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-01-29 19:11:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-01-29 19:11:30 -0800"
+    },
+    "done": false
+  }
+}

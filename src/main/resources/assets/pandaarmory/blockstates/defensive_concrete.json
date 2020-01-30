@@ -1,0 +1,18 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "pandaarmory:blocks/defensive_concrete"
+    }
+  },
+  "variants": {
+    "normal": {
+      "model": "cube_all"
+
+    },
+    "inventory": {
+      "model": "cube_all"
+    }
+  }
+
+}

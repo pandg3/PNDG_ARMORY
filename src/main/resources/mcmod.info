@@ -1,0 +1,13 @@
+[
+{
+  "modid": "pandaarmory",
+  "name": "PNDG's Armory",
+  "description": "Is it possible? To create an actual lit mod?",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "",
+  "url": "",
+  "authorList": ["pandg3"],
+  "credits": "pandg3"
+}
+]
