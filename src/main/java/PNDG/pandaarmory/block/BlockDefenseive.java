@@ -6,11 +6,11 @@ import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
 
 public class BlockDefenseive extends BlockBase {
-    public BlockDefenseive(String name){
+    public BlockDefenseive(String name, float hardness, float resistance){
         super(Material.ROCK, name);
 
-        setHardness(3f);
-        setResistance(5f);
+        setHardness(hardness);
+        setResistance(resistance);
     }
 
     @Override

@@ -6,7 +6,7 @@ import net.minecraft.item.Item;
 import net.minecraftforge.registries.IForgeRegistry;
 
 public class ModBlocks {
-    public static BlockDefenseive defenseiveConcrete = new BlockDefenseive("defensive_Concrete");
+    public static BlockDefenseive defenseiveConcrete = new BlockDefenseive("defensive_Concrete", 1.5f, 60f);
     public static void register(IForgeRegistry<Block> registry){
         registry.registerAll(
                 defenseiveConcrete
